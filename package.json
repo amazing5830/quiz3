@@ -1,0 +1,19 @@
+{
+  "name": "safety-quiz",
+  "displayName": "电力安全答题",
+  "version": "1.0.0",
+  "description": "名源能源电力安规考试练习",
+  "main": "index.js",
+  "author": "名源能源",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "cordova": "^12.0.0"
+  },
+  "cordova": {
+    "platforms": ["android"],
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    }
+  }
+}
